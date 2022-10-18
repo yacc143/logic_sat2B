@@ -11,7 +11,7 @@ python = "^3.9"
 click = "^8.1.3"
 
 [tool.poetry.scripts]
-solve_limboole = "sat2B/script:main"
+solve_limboole = "sat2B.script:main"
 
 
 [build-system]

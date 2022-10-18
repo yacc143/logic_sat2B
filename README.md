@@ -7,13 +7,12 @@ You need two external files to use this:
 * the formulas.zip file from Moodle.
 
 Installation
-~~~~~~~~~~~~
+------------
 
 Standard python rules, e.g. pip install .
 
-
 Usage
-~~~~~
+-----
 
 solve_limboole -f formulas.zip -l limboolename 9899999 "Max Mustermann"
 
